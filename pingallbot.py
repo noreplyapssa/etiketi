@@ -234,7 +234,7 @@ async def bots(client, message):
 async def start(client, message):
   text = f'''
 Heya {message.from_user.mention},
-My name is **PingAll**. Tüm kisiler etiket atar.
+Benim ismim **@uye_etiketleme_bot**. Tüm kisiler etiket atar.
 
 lütfen sponsor gruba Katıl.
 
